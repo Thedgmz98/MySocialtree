@@ -47,7 +47,6 @@ img{
     flex-direction: column;
     box-sizing: border-box;
     width:300px;
-  
 }
 
 .txt{
@@ -55,7 +54,6 @@ img{
     display: flex;
     flex-direction: column;
     line-height: 25%;
-    
 }
 .txt2{
     margin-top: 5%;
